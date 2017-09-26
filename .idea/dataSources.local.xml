@@ -2,9 +2,9 @@
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="Django default" uuid="2465f16f-8585-45a6-89d9-fdee48111d57">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
       <first-sync>true</first-sync>
       <user-name>root</user-name>
-      <user-password>dfd8dfc5dfc5dfde</user-password>
     </data-source>
   </component>
 </project>

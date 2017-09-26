@@ -22,7 +22,7 @@ def login(request):
 def antion(request):
     author_list = []
     import MySQLdb
-    db = MySQLdb.connect("127.0.0.1","root","root","blog_analysic_system")
+    db = MySQLdb.connect("115.236.161.138","root","rootroot","analysic")
     cursor = db.cursor()
     sql = "select user_name from login_usernum"
     cursor.execute(sql)
